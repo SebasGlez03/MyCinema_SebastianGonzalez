@@ -4,4 +4,7 @@
     <string name="forgot_password">¿Olvidaste tu contraseña?</string>
     <string name="sing_up">¿No tienes cuenta? Registrate</string>
     <string name="go">Entrar</string>
+    <string name="rent">Rentar</string>
+    <string name="buy">Comprar</string>
+    <string name="sample_data">Auggie Pullman tiene 10 años y sueña con convertirse en astronauta algún día. Nació con una grave malformación facial y tuvo que someterse a diez años de operaciones y largos periodos de recuperación en casa. Ahora Auggie debe enfrentarse a otro gran reto: asistir a clase por primera vez.</string>
 </resources>
